@@ -27,7 +27,7 @@ This repository is a small step in my journey of continuous learning and sharing
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Sharath Shyam][(https://www.linkedin.com/in/sharath-shyam-a6a602171/)]  
+- LinkedIn: [Sharath Shyam](https://www.linkedin.com/in/sharath-shyam-a6a602171/)  
 - GitHub: [SharathShyam](https://github.com/SharathShyam)  
 
 ---
