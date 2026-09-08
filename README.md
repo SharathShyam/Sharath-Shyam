@@ -15,7 +15,7 @@ This repository is a small step in my journey of continuous learning and sharing
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:**  Java, C, JavaScript, Python, C  
+- **Languages:**  Java, C, Python, C#
 - **Tools & Platforms:** Git, GitHub, VS Code, Linux  
 - **Interests:** Web Development, Data Structures, Algorithms, ML  
 
